@@ -1,2 +1,2 @@
-# guess-the-tune
-It plays a tune on a piezo buzzer and the player has to guess what the tune is.
+# arduino-projects
+Just a collection of some fun arduino projects I've been working on.
